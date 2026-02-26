@@ -2,5 +2,5 @@ from dataclasses import dataclass
 
 
 @dataclass
-class Market_data:
+class MarketData:
     pass
